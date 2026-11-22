@@ -22,7 +22,7 @@ except Exception:
 # ==========================================
 # Configuration
 # ==========================================
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8899211567:AAEzP3MsPIP5Dvj_ANYivz9dSdHvgXvgDlg")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "9228890997:AAFu3Hih-5mRer4fNARo1OyKYgNkqM2P9Cg")
 ADMIN_ID = 8758365020
 BASE_URL = f"https://api.telegram.org/bot{BOT_TOKEN}/"
 
